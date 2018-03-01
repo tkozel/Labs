@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Místnosti</string>
+    <string name="title_hodina_detail">Detail místnosti</string>
+    <string name="slo">Číslo</string>
+    <string name="katedra">Katedra</string>
+    <string name="kapacita">Kapacita</string>
+    <string name="popis">Popis</string>
+</resources>
