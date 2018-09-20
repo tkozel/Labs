@@ -16,7 +16,7 @@ import cz.uhk.fim.labs.model.MistnostHolder;
 import cz.uhk.fim.labs.model.MistnostInfo;
 
 /**
- * A fragment representing a single Hodina detail screen.
+ * A fragment representing a single Mistnost detail screen.
  * This fragment is either contained in a {@link MistnostListActivity}
  * in two-pane mode (on tablets) or a {@link MistnostDetailActivity}
  * on handsets.
